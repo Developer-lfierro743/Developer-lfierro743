@@ -3,7 +3,7 @@
 - java,Javascript,Etc
 - i am trying to build a Minecraft clone(voxelcraft 3d/EaglecraftY)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lfierro743-Developer)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-lfierro743)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Developer-lfierro743/Developer-lfierro743 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -5,6 +5,9 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Developer-lfierro743&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=Vscode,eclipse ide,linux)](https://github.com/Jurredr/github-widgetbox)
+
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=Java,html,markdown)](https://github.com/Jurredr/github-widgetbox)
 
 

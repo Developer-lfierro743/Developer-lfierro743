@@ -9,7 +9,7 @@
 
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=Java,html,css,markdown, JavaScript)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=Java,html,css,markdown,JavaScript)](https://github.com/Jurredr/github-widgetbox)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Developer-lfierro743)](https://github.com/anuraghazra/github-readme-stats)

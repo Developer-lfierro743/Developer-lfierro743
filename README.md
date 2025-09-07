@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Developer-lfierro743
 - 🌱 I’m currently learning on
 - java,Javascript,Etc
-- i am trying to build a Minecraft clone(voxelcraft 3d/Novacraft)
+- i am trying to build a full Fledged Video game from Scratch in Java 21 and LWJGL 3 this project is Astrum™
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Developer-lfierro743&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode,)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,vscode,Windows)](https://github.com/Jurredr/github-widgetbox)
 
 
 

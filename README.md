@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 [![Developer-lfierro743 GitHub stats](https://github-stats-extended.vercel.app/api?username=Developer-lfierro743)](https://github.com/stats-organization/github-stats-extended)
 
 hello my name is Developer-lfierro743 i am working on Project Strata: Primordial its a Rust based Voxel game is opensource Only source avaible license for the game in the future the game is going Evolve and this why i wanted to make it half opensource and i have a type a studio who makes video games only we have it half concreated ready its called Novusforge studios it was its still a ficitonal company but its very real what we making it
+I’m currently learning Rust and other programming languages like Java and other ones
